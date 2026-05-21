@@ -204,7 +204,7 @@ FK project_id
 
 #  ER Diagram
 
-<image src="Task 1/Your Work/licensed-image.jpg">
+<img src="images/licensed-image.jpg" alt = "Er diagram" >
 
 ---
 
