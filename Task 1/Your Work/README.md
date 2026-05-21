@@ -202,23 +202,9 @@ FK project_id
 
 ---
 
-# Best Tools to Draw This ER Diagram
+#  ER Diagram
 
-## Draw.io (Free)
-
-[Draw.io (diagrams.net)](https://app.diagrams.net?utm_source=chatgpt.com)
-
----
-
-## Lucidchart
-
-[Lucidchart](https://www.lucidchart.com?utm_source=chatgpt.com)
-
----
-
-## Canva ER Diagram Maker
-
-[Canva ER Diagram Maker](https://www.canva.com/graphs/er-diagrams/?utm_source=chatgpt.com)
+<image src="Task 1/Your Work/licensed-image.jpg">
 
 ---
 
